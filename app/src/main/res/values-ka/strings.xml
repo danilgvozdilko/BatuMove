@@ -1,0 +1,101 @@
+<resources>
+
+    <string name="app_name">BatuMove</string>
+
+    <string name="brand_name_first">Batu</string>
+    <string name="brand_name_second">Move</string>
+    <string name="brand_tagline">ავტობუსები. ქალაქი. ერთად.</string>
+
+    <string name="splash_message">აღმოაჩინე უკეთესი ბათუმი\nჩვენთან ერთად</string>
+    <string name="splash_error">ტრანსპორტის მონაცემების ჩატვირთვა ვერ მოხერხდა. შეამოწმეთ ინტერნეტკავშირი და სცადეთ ხელახლა.</string>
+
+    <string name="language_title">აირჩიეთ ენა</string>
+    <string name="language_subtitle">ენის შეცვლა მოგვიანებით პარამეტრებიდან შეგიძლიათ</string>
+
+    <string name="language_english">English</string>
+    <string name="language_georgian">ქართული</string>
+    <string name="language_ukrainian">Українська</string>
+    <string name="language_russian">Русский</string>
+
+    <string name="action_continue">გაგრძელება</string>
+    <string name="action_retry">ხელახლა ცდა</string>
+
+    <string name="language_save_error">ენის შენახვა ვერ მოხერხდა</string>
+
+    <string name="routes_title">მარშრუტები</string>
+    <string name="routes_subtitle">ბათუმის საზოგადოებრივი ტრანსპორტი</string>
+
+    <string name="routes_empty">მარშრუტები ვერ მოიძებნა</string>
+    <string name="routes_error">მარშრუტების ჩატვირთვა ვერ მოხერხდა</string>
+
+    <string name="route_number">მარშრუტი %1$s</string>
+
+    <string name="routes_search_hint">მარშრუტების ძიება</string>
+
+    <string name="navigation_routes">მარშრუტები</string>
+    <string name="navigation_map">რუკა</string>
+    <string name="navigation_settings">პარამეტრები</string>
+
+    <string name="route_details_error">მარშრუტის ჩატვირთვა ვერ მოხერხდა</string>
+    <string name="route_details_error_description">მარშრუტის ინფორმაციის ჩატვირთვისას შეცდომა მოხდა.</string>
+
+    <string name="route_details_title">მარშრუტი</string>
+    <string name="route_stops_title">გაჩერებები</string>
+
+    <string name="direction_outbound">წინ</string>
+    <string name="direction_inbound">უკან</string>
+
+    <string name="buses_online">მარშრუტზე %1$d ავტობუსია</string>
+    <string name="bus_online_single">მარშრუტზე 1 ავტობუსია</string>
+
+    <string name="buses_realtime_unavailable">ავტობუსების მდებარეობა დროებით მიუწვდომელია</string>
+    <string name="action_back">უკან</string>
+    <string name="direction_unknown">მიმართულება უცნობია</string>
+
+    <string name="stops_away">%1$d გაჩ.</string>
+
+    <string name="next_bus">უახლოესი ავტობუსი</string>
+    <string name="no_approaching_buses">მოახლოებული ავტობუსები არ არის</string>
+    <string name="bus_arrival_details">%1$s · %2$d გაჩ.</string>
+    <string name="estimated_minutes">~%1$d წთ</string>
+
+    <string name="splash_loading">ბათუმის ტრანსპორტის მომზადება…</string>
+
+    <string name="language">ენა</string>
+    <string name="theme_title">თემა</string>
+    <string name="theme_subtitle">აირჩიეთ თემა</string>
+
+    <string name="light_theme">ღია თემა</string>
+    <string name="dark_theme">მუქი თემა</string>
+    <string name="stop_number">გაჩერება №%1$s</string>
+    <string name="stop_order">გაჩერება %1$d ამ მარშრუტზე</string>
+
+
+    <!-- რუკა და მგზავრობის დაგეგმვა -->
+    <string name="map_load_error_title">რუკის ჩატვირთვა ვერ მოხერხდა</string>
+    <string name="map_load_error_subtitle">შეამოწმეთ ინტერნეტკავშირი</string>
+    <string name="map_search_destination">სად მიდიხართ?</string>
+    <string name="map_my_location">ჩემი მდებარეობა</string>
+    <string name="map_destination">დანიშნულების ადგილი</string>
+    <string name="map_direct_routes_count">პირდაპირი მარშრუტები: %1$d</string>
+    <string name="map_no_direct_routes">პირდაპირი მარშრუტები ვერ მოიძებნა</string>
+    <string name="map_nearby_summary">ახლოს %1$d გაჩერება · %2$d ავტობუსი</string>
+    <string name="map_buses_online">ონლაინ ავტობუსები: %1$d</string>
+    <string name="trip_direct_options">პირდაპირი ვარიანტები</string>
+    <string name="trip_no_direct_option">ახლომდებარე გაჩერებებიდან პირდაპირი მარშრუტი არ არის</string>
+    <string name="trip_walk_to_stop">%1$s · დაახლოებით %2$d წთ ფეხით</string>
+    <string name="trip_route_label">მარშრუტი %1$s</string>
+    <string name="distance_from_you">თქვენგან %1$s</string>
+    <string name="walking_time">დაახლოებით %1$d წთ ფეხით</string>
+    <string name="action_open">გახსნა</string>
+    <string name="nearby_stops_title">უახლოესი გაჩერებები</string>
+    <string name="nearby_stops_subtitle">დეტალებისთვის დააჭირეთ გაჩერებას</string>
+    <string name="no_nearby_stops">ახლომახლო გაჩერებები ჯერ ვერ მოიძებნა</string>
+    <string name="direction_towards">მიმართულება: %1$s</string>
+    <string name="live_data">მონაცემები რეალურ დროში</string>
+    <string name="clear_search">ძიების გასუფთავება</string>
+
+    <string name="distance_meters">%1$d მ</string>
+    <string name="distance_kilometers">%1$s კმ</string>
+
+</resources>

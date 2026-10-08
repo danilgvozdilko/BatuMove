@@ -1,0 +1,120 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">BatuMove</string>
+
+    <!-- Brand -->
+    <string name="brand_name_first">Batu</string>
+    <string name="brand_name_second">Move</string>
+    <string name="brand_tagline">Buses. City. Together.</string>
+
+    <!-- Splash -->
+
+    <string name="splash_message">Exploring a better Batumi\ntogether</string>
+
+    <string name="splash_loading">
+    Preparing Batumi transport…
+</string>
+
+    <string name="splash_error">
+    Unable to load transport data. Check your connection and try again.
+</string>
+
+    <string name="action_retry">
+    Try again
+</string>
+
+    <string name="language">Language</string>
+    <string name="language_title">Choose your language</string>
+    <string name="language_subtitle">You can change it later in settings</string>
+
+    <string name="language_english">English</string>
+    <string name="language_georgian">ქართული</string>
+    <string name="language_ukrainian">Українська</string>
+    <string name="language_russian">Русский</string>
+
+    <string name="action_continue">Continue</string>
+    <string name="language_save_error">Unable to save language</string>
+
+    <string name="theme_title">Theme</string>
+    <string name="theme_subtitle">Choose your theme</string>
+
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+
+    <!-- Routes -->
+
+    <string name="routes_title">Routes</string>
+    <string name="routes_subtitle">Batumi public transport</string>
+
+    <string name="routes_empty">No routes available</string>
+    <string name="routes_error">Unable to load routes</string>
+
+    <string name="route_number">Route %1$s</string>
+
+    <string name="routes_search_hint">Search routes</string>
+
+    <string name="navigation_routes">Routes</string>
+    <string name="navigation_map">Map</string>
+    <string name="navigation_settings">Settings</string>
+
+    <string name="route_details_title">Route</string>
+    <string name="route_stops_title">Stops</string>
+
+    <string name="direction_outbound">Outbound</string>
+    <string name="direction_inbound">Inbound</string>
+
+    <string name="buses_online">%1$d buses on route</string>
+    <string name="bus_online_single">1 bus on route</string>
+
+    <string name="buses_realtime_unavailable">Live bus positions are temporarily unavailable</string>
+
+    <string name="route_details_error">Unable to load route</string>
+
+    <string name="action_back">Back</string>
+
+    <string name="route_details_error_description">Something went wrong while loading route information.</string>
+
+    <string name="direction_unknown">Unknown direction</string>
+
+    <string name="stop_number">Stop №%1$s</string>
+    <string name="stop_order">Stop %1$d on this route</string>
+
+    <string name="estimated_minutes">~%1$d min</string>
+    <string name="no_approaching_buses">No approaching buses</string>
+
+    <string name="stops_away">%1$d stops</string>
+
+    <string name="next_bus">Next bus</string>
+
+    <string name="bus_arrival_details">%1$s · %2$d stops</string>
+
+
+    <!-- Map & trip planner -->
+    <string name="map_load_error_title">Unable to load the map</string>
+    <string name="map_load_error_subtitle">Check your internet connection</string>
+    <string name="map_search_destination">Where are you going?</string>
+    <string name="map_my_location">My location</string>
+    <string name="map_destination">Destination</string>
+    <string name="map_direct_routes_count">%1$d direct routes</string>
+    <string name="map_no_direct_routes">No direct routes found</string>
+    <string name="map_nearby_summary">%1$d nearby stops · %2$d buses</string>
+    <string name="map_buses_online">%1$d buses online</string>
+    <string name="trip_direct_options">Direct options</string>
+    <string name="trip_no_direct_option">No direct route from nearby stops</string>
+    <string name="trip_walk_to_stop">%1$s · about %2$d min walk</string>
+    <string name="trip_route_label">Route %1$s</string>
+    <string name="distance_from_you">%1$s from you</string>
+    <string name="walking_time">About %1$d min walk</string>
+    <string name="action_open">Open</string>
+    <string name="nearby_stops_title">Nearby stops</string>
+    <string name="nearby_stops_subtitle">Tap a stop to see details</string>
+    <string name="no_nearby_stops">No nearby stops yet</string>
+    <string name="direction_towards">Towards %1$s</string>
+    <string name="live_data">Live data</string>
+    <string name="clear_search">Clear search</string>
+
+    <string name="distance_meters">%1$d m</string>
+    <string name="distance_kilometers">%1$s km</string>
+
+</resources>

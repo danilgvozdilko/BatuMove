@@ -1,0 +1,103 @@
+<resources>
+
+    <string name="app_name">BatuMove</string>
+
+    <string name="brand_name_first">Batu</string>
+    <string name="brand_name_second">Move</string>
+    <string name="brand_tagline">Автобуси. Місто. Разом.</string>
+
+    <string name="splash_message">Відкривай кращий Батумі\nразом із нами</string>
+    <string name="splash_error">Не вдалося завантажити дані транспорту. Перевірте підключення до інтернету та спробуйте ще раз.</string>
+
+    <string name="language_title">Оберіть мову</string>
+    <string name="language_subtitle">Ви зможете змінити її пізніше в налаштуваннях</string>
+
+    <string name="language_english">English</string>
+    <string name="language_georgian">ქართული</string>
+    <string name="language_ukrainian">Українська</string>
+    <string name="language_russian">Русский</string>
+
+    <string name="action_continue">Продовжити</string>
+    <string name="action_retry">Спробувати ще раз</string>
+
+    <string name="language_save_error">Не вдалося зберегти мову</string>
+
+    <string name="routes_title">Маршрути</string>
+    <string name="routes_subtitle">Громадський транспорт Батумі</string>
+
+    <string name="routes_empty">Маршрути не знайдено</string>
+    <string name="routes_error">Не вдалося завантажити маршрути</string>
+
+    <string name="route_number">Маршрут %1$s</string>
+
+    <string name="routes_search_hint">Пошук маршрутів</string>
+
+    <string name="navigation_routes">Маршрути</string>
+    <string name="navigation_map">Карта</string>
+    <string name="navigation_settings">Налаштування</string>
+
+    <string name="route_details_error">Не вдалося завантажити маршрут</string>
+    <string name="route_details_error_description">Сталася помилка під час завантаження інформації про маршрут.</string>
+
+    <string name="route_details_title">Маршрут</string>
+    <string name="route_stops_title">Зупинки</string>
+
+    <string name="direction_outbound">Туди</string>
+    <string name="direction_inbound">Назад</string>
+
+    <string name="buses_online">%1$d автобусів на маршруті</string>
+    <string name="bus_online_single">1 автобус на маршруті</string>
+
+    <string name="buses_realtime_unavailable">Позиції автобусів тимчасово недоступні</string>
+    <string name="action_back">Назад</string>
+    <string name="direction_unknown">Напрямок невідомий</string>
+
+    <string name="estimated_minutes">~%1$d хв</string>
+    <string name="no_approaching_buses">Автобусів, що наближаються, немає</string>
+    <string name="stops_away">%1$d зуп.</string>
+    <string name="next_bus">Найближчий автобус</string>
+    <string name="bus_arrival_details">%1$s · %2$d зуп.</string>
+
+    <string name="splash_loading">Готуємо транспорт Батумі…</string>
+
+    <string name="language">Мова</string>
+    <string name="theme_title">Тема</string>
+    <string name="theme_subtitle">Оберіть тему</string>
+
+    <string name="light_theme">Світла тема</string>
+    <string name="dark_theme">Темна тема</string>
+    <string name="stop_number">Зупинка №%1$s</string>
+    <string name="stop_order">Зупинка %1$d на цьому маршруті</string>
+
+
+
+
+
+    <!-- Карта та планування поїздки -->
+    <string name="map_load_error_title">Не вдалося завантажити карту</string>
+    <string name="map_load_error_subtitle">Перевірте підключення до інтернету</string>
+    <string name="map_search_destination">Куди їдемо?</string>
+    <string name="map_my_location">Моє місцезнаходження</string>
+    <string name="map_destination">Пункт призначення</string>
+    <string name="map_direct_routes_count">Прямих маршрутів: %1$d</string>
+    <string name="map_no_direct_routes">Прямих маршрутів не знайдено</string>
+    <string name="map_nearby_summary">Зупинок поруч: %1$d · автобусів: %2$d</string>
+    <string name="map_buses_online">Автобусів онлайн: %1$d</string>
+    <string name="trip_direct_options">Варіанти без пересадки</string>
+    <string name="trip_no_direct_option">Від найближчих зупинок прямого маршруту немає</string>
+    <string name="trip_walk_to_stop">%1$s · близько %2$d хв пішки</string>
+    <string name="trip_route_label">Маршрут %1$s</string>
+    <string name="distance_from_you">%1$s від вас</string>
+    <string name="walking_time">Близько %1$d хв пішки</string>
+    <string name="action_open">Відкрити</string>
+    <string name="nearby_stops_title">Найближчі зупинки</string>
+    <string name="nearby_stops_subtitle">Натисніть на зупинку, щоб переглянути деталі</string>
+    <string name="no_nearby_stops">Поруч зупинок поки не знайдено</string>
+    <string name="direction_towards">У напрямку %1$s</string>
+    <string name="live_data">Дані в реальному часі</string>
+    <string name="clear_search">Очистити пошук</string>
+
+    <string name="distance_meters">%1$d м</string>
+    <string name="distance_kilometers">%1$s км</string>
+
+</resources>
